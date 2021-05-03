@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vasilogi
 - 👀 I’m interested in Machine Learning, Data Science and mathematical modelling
 - 🌱 I’m currently learning more on Machine Learning and Neural Networks using Python
-- 💞️ I’m looking to collaborate on challenging engineering, business, and medicinal relared data science and modelling projects
+- 💞️ I’m looking to collaborate on challenging engineering, medicinal and business relared data science and modelling projects
 - 📫 jean.vasil@gmail.com
 
 <!---
