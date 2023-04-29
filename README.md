@@ -12,7 +12,7 @@ Hi there! I'm Ioannis (Yannis) Vasilopoulos, an experienced professional with a 
 
 ## 🏆 My Professional Experience
 
-### Technical Consultant and Team Leader at Siemens
+### Digital Workflow Engineer and Team Leader at Siemens
 
 - Led a team of six technical consultants, responsible for various presales activities, supporting customers in commissioning of Industrial Edge.
 - Collaborated with Product Portfolio Management, Marketing, and R&D departments on product releases and roadmaps.
