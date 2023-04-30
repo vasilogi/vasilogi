@@ -29,3 +29,14 @@ Hi there! I'm Ioannis (Yannis) Vasilopoulos, an experienced professional with a 
 ## 🌱 What I'm Learning
 
 I'm currently expanding my knowledge in areas like deep learning, cloud computing, and data engineering to build more comprehensive and cutting-edge solutions for the industry.
+
+## 💼 How to Reach Me
+
+If you'd like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vasilogi/), or send me an email at iovannis@outlook.com. I'm always open to networking, discussing opportunities, and collaborating on projects.
+
+📚 Some of My Projects
+
+- [Industrial Edge Playground](https://www.siemens.com/global/en/products/automation/topic-areas/industrial-edge/community/playground-registration.html): A scalable platform to create on-demand environments for customers to try out Industrial Edge products.
+- [Pharmaceutical Drying Web Application](https://github.com/vasilogi/comf-webapp): A web application for modeling and visualization of the pharmaceutical drying process (not supported).
+- [Vasilgi Blog](https://vasilogi.github.io/): A simple profile web page
+
