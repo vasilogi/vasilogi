@@ -6,33 +6,36 @@ You can read more about me and my projects [here](https://vasilogi.github.io/)
 
 ## 🚀 My Skills and Expertise
 
-- **Programming Languages**: Python, JavaScript, SQL, Bash
-- **Machine Learning & AI**: Training computer vision neural networks, deploying ML models on edge devices using TFX and FastAPI.
-- **Edge Computing**: Siemens Industrial Edge, IIoT, architecture Edge Computing solutions.
-- **Software Development**: Python, JavaScript, Bash, SQL, containerized applications, web development, REST APIs, algorithm design and implementation.
-- **Data Communication**: MQTT, REST, OPC UA, SIMATIC S7.
-- **Simulation & Modeling**: Molecular Dynamics simulations, Computational Fluid Dynamics, Modelling of operations in the Pharmaceutical Industry.
+- **Machine Learning & AI**: TensforFlow, sciki-learn, Edge AI deployment, TFX
+- **Cloud computing**: Azure ML
+- **Edge Computing**: Siemens Industrial Edge, IIoT, K8s, Grafana, architecture Edge Computing solutions
+- **Software Development**: Python, JavaScript, Bash, SQL, Docker, web development, REST APIs, Flask API, FastAPI
+- **Data Communication**: MQTT, REST, OPC UA, SIMATIC S7
 - **Project Management**: Leading technical teams, resource allocation, budget planning, agile methodologies.
 
 ## 🏆 My Professional Experience
 
-### Digital Workflow Engineer and Team Leader at Siemens
+### Digital Workflow Engineer and Team Leader, *Siemens, Prague* | July 2021 – today
 
-- Led a team of six technical consultants, responsible for various presales activities, supporting customers in commissioning of Industrial Edge.
-- Collaborated with Product Portfolio Management, Marketing, and R&D departments on product releases and roadmaps.
-- Created application examples, documentation, and holistic system testing.
-- Implemented machine learning solutions in edge devices for exhibitions and fairs.
-- Acted as the Edge Solution architect and technical support for the Industrial Edge Playground.
-### PhD Research Assistant in Chemical Engineering
+-	Lead a global team of six technical consultants supporting Edge Computing and AI customer projects. Manage pre-sales activities, resources, and budget while coordinating tasks across Germany, Czechia, Austria, Singapore.
+-	Evaluate architectures and the technical feasibility of Edge AI customer projects. Deploy Edge AI solutions based on time-series and computer vision. 
+-	Acted as the Edge Solution Architect and go-to technical responsible of the Industrial Edge Playground (SaaS) - a scalable platform where customers can try out Industrial Edge. Co-drive the user journey design. Translate business requirements to backlog items.
+-	Present our portfolio at fairs such as Hannover Messe and SPS and collect customer leads.
+-	Collaborate closely with the Product Portfolio Management, Marketing and R&D, communicate product releases and roadmaps across EMEA, AM, APAC regions, and discuss potential synergies with other companies.
+-	Participate in the GTM team, building portfolio documentation, creating application examples, broadcasting our GitHub repository to the public, performing system testing, documenting non-functional requirements, and implementing machine learning solutions for showcase production machines at major exhibitions.
 
-- Developed numerical algorithms and mathematical models for pharmaceutical desolvation and drying.
-- Designed and implemented a web application for modeling and visualization of the drying process.
-- Managed research projects, budget allocation, and research activity planning.
-- Authored and reviewed scientific publications and presented at international conferences.
+### Research Assistant, *University of Chemistry and Technology, Prague* | Aug 2017 – Jul 2021
+
+-	Developed numerical algorithms. Model and predict the desolvation of pharmaceuticals. Developed a web-app used for modeling and visualization.
+-	Designed Machine Learning classification solutions, collect and clean drug substances data, and train respective models.
+-	Managed three research projects, allocate budget (salaries, equipment, software), planned research activities, wrote reports.
+-	Wrote, edited, and reviewed scientific publications in peer-reviewed journals. Presented and participated in various international conferences.
+
+### Visiting Researcher, *University College London, London* | Oct 2019 – Apr 2020
 
 ## 🌱 What I'm Learning
 
-I'm currently expanding my knowledge in areas like deep learning, cloud computing, and data engineering to build more comprehensive and cutting-edge solutions for the industry.
+I'm currently expanding my knowledge in areas like deep learning, Azure cloud computing, and data engineering to build more comprehensive and cutting-edge solutions for the industry.
 
 ## 💼 How to Reach Me
 
