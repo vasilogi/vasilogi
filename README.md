@@ -33,6 +33,8 @@ You can read more about me and my projects [here](https://vasilogi.github.io/)
 
 ### Visiting Researcher, *University College London, London* | Oct 2019 – Apr 2020
 
+-	Perform large parallel molecular dynamics simulations to study the stability of drug substances.
+
 ## 🌱 What I'm Learning
 
 I'm currently expanding my knowledge in areas like deep learning, Azure cloud computing, and data engineering to build more comprehensive and cutting-edge solutions for the industry.
