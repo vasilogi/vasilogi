@@ -1,8 +1,12 @@
 # Ioannis Vasilopoulos 👋
-Hi there! I'm Ioannis (Yannis) Vasilopoulos, an experienced professional with a strong background in software development, machine learning, and technical consultancy. I'm passionate about leveraging technology to build innovative solutions, and I'm always eager to learn and explore new technologies.
+
+Hi there! I'm Ioannis (Yannis) Vasilopoulos, a seasoned team leader at Siemens. I specialize on Edge Computing and AI technologies and solutions. Currently, I manage pre-sales activities and provide technical consultancy on Edge AI customer projects. As a member of the Go-To-Market team, I drive customer success by  architecting, implementing, and supporting edge computing & edge AI solutions. My expertise spans various technologies, including software development, machine learning, Docker, Kubernetes, REST APIs and industrial communication. Passionate about sharing my knowledge, I have offered numerous workshops and presentations at industry events, while fostering strong relationships with stakeholders in R&D, marketing, and product management. I am dedicated to helping businesses unlock the full potential of edge computing and AI technologies to drive efficiency and growth.
+
+You can read more about me and my projects [here](https://vasilogi.github.io/)
 
 ## 🚀 My Skills and Expertise
 
+- **Programming Languages**: Python, JavaScript, SQL, Bash
 - **Machine Learning & AI**: Training computer vision neural networks, deploying ML models on edge devices using TFX and FastAPI.
 - **Edge Computing**: Siemens Industrial Edge, IIoT, architecture Edge Computing solutions.
 - **Software Development**: Python, JavaScript, Bash, SQL, containerized applications, web development, REST APIs, algorithm design and implementation.
