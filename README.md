@@ -11,7 +11,7 @@ You can read more about me and my projects [here](https://vasilogi.github.io/)
 - **Edge Computing**: Siemens Industrial Edge, IIoT, K8s, Grafana, architecture Edge Computing solutions
 - **Software Development**: Python, JavaScript, Bash, SQL, Docker, web development, REST APIs, Flask API, FastAPI
 - **Data Communication**: MQTT, REST, OPC UA, SIMATIC S7
-- **Project Management**: Leading technical teams, resource allocation, budget planning, agile methodologies.
+- **Management**: Leading technical teams, Leading projects, resource allocation, budget planning, agile methodologies.
 
 ## 🏆 My Professional Experience
 
