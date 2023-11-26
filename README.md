@@ -15,7 +15,7 @@ You can read more about me and my projects [here](https://vasilogi.github.io/)
 
 ## 🏆 My Professional Experience
 
-### Digital Workflow Engineer and Team Leader, *Siemens, Prague* | July 2021 – today
+### Presales Solutions Consultant and Team Leader, *Siemens, Prague* | July 2021 – today
 
 -	Lead a global team of six technical consultants supporting Edge Computing and AI customer projects. Manage pre-sales activities, resources, and budget while coordinating tasks across Germany, Czechia, Austria, Singapore.
 -	Evaluate architectures and the technical feasibility of Edge AI customer projects. Deploy Edge AI solutions based on time-series and computer vision. 
