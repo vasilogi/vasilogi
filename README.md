@@ -9,7 +9,7 @@ You can read more about me and my projects [here](https://vasilogi.github.io/)
 - **Machine Learning & AI**: TensforFlow, scikit-learn, OpenVINO, MLFlow, Cloud and Edge AI deployment
 - **Cloud computing**: Azure ML
 - **Edge Computing**: Siemens Industrial Edge, IIoT, architecture Edge Computing solutions
-- **Software Development**: Python, JavaScript, Bash, SQL, Docker, FastAPI
+- **Software Development**: Python, JavaScript, Bash, SQL, Docker, FastAPI, Postman
 - **Data Communication**: MQTT, REST, OPC UA, SIMATIC S7
 - **Management**: Leading technical teams, Leading projects, resource allocation, budget planning, agile methodologies.
 
