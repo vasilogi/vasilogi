@@ -15,7 +15,7 @@ You can read more about me and my projects [here](https://vasilogi.github.io/)
 
 ## 🏆 My Professional Experience
 
-### AI Solutions Engineer, *Siemens, Prague* | August 2023 - present
+### AI/ML Engineer, *Siemens, Prague* | August 2023 - present
 
 - Implement Edge AI customer projects, demonstrating expertise in both pre-sales consulting and hands-on technical execution.
 - Develop demos and workshops to empower regional departments in driving successful AI initiatives.
@@ -25,7 +25,7 @@ You can read more about me and my projects [here](https://vasilogi.github.io/)
 -	Led a global team of six technical consultants supporting Edge Computing and AI customer projects. Managed pre-sales activities, resources, and budget while coordinating tasks across Germany, Czechia, Austria, Singapore.
 -	Evaluated architectures and the technical feasibility of Edge AI customer projects. Deployed Edge AI solutions based on time-series and computer vision. 
 -	Acted as the Edge Solution Architect and go-to technical responsible for the Industrial Edge Playground (SaaS) - a scalable platform where customers can try out Industrial Edge. Co-driven the user journey design. Translate business requirements to backlog items.
--	Present our portfolio at fairs such as Hannover Messe and SPS and collect customer leads.
+-	Present our portfolio at fairs, such as the Hannover Messe and SPS, Technical Consultants Conference and collect customer leads.
 -	Collaborated closely with Product Portfolio Management, Marketing, and R&D, communicated product releases and roadmaps across EMEA, AM, and APAC regions, and discussed potential synergies with other companies.
 -	Participated in the GTM team, built portfolio documentation, created application examples, broadcasted our GitHub repository to the public, performed system testing, documented non-functional requirements, and implemented machine learning solutions for showcase production machines at major exhibitions.
 
