@@ -1,6 +1,6 @@
 # Ioannis Vasilopoulos 
 
-Hi there👋! I'm Ioannis (Yannis) Vasilopoulos. Read more [here](https://vasilogi.github.io/about/).
+Hi there👋! I'm Ioannis (Yannis) Vasilopoulos. Read more about me and my projects [here](https://vasilogi.github.io/about/).
 
 ## 📚 Some of My Projects
 
